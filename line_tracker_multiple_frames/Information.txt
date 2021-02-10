@@ -1,0 +1,3 @@
+This folder contains my working code as of 10th Feb 2021.
+The files in this folder use the Hough Transform to detect straight lines in images. Clustering is used to identify unique lines.
+Parameters are set to be self-regulating in the code. Configurations for each set up (to produce reproducible results with the code) are in the config.py file.
